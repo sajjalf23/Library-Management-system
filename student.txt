@@ -1,0 +1,3 @@
+Sajjal 0 False
+fatima 1 True
+Maham 2 True
